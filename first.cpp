@@ -6,5 +6,5 @@ main(){
 	cin>>a;
 	cout<<"enter second number ";
 	cin>>b;
-	cout<<"multiplication of two numbers are "<<a*b;
+	cout<<"addition of two numbers are "<<a+b;
 }
